@@ -1045,6 +1045,8 @@ section{
 
    .abtt{
       background-position: left;
+          background-size: contain;
+            height: 300px;
    }
 
    .abtt .content{
